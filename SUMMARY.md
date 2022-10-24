@@ -22,4 +22,5 @@
 
 ## Other
 
+* [Modals](other/modals.md)
 * [Apple Music Electron](other/apple-music-electron.md)
