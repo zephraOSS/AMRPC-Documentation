@@ -20,7 +20,10 @@
 * [Listen Together](articles/listen-together.md)
 * [Ko-fi Features](articles/ko-fi-features.md)
 
+## Developer Resources
+
+* [Modals](developer-resources/modals.md)
+
 ## Other
 
-* [Modals](other/modals.md)
 * [Apple Music Electron](other/apple-music-electron.md)

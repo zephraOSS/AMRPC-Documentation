@@ -30,9 +30,13 @@ layout: landing
 {% endtab %}
 
 {% tab title="Other" %}
-{% content-ref url="other/modals.md" %}
-[modals.md](other/modals.md)
+### Developer Resources
+
+{% content-ref url="developer-resources/modals.md" %}
+[modals.md](developer-resources/modals.md)
 {% endcontent-ref %}
+
+### Other
 
 {% content-ref url="other/apple-music-electron.md" %}
 [apple-music-electron.md](other/apple-music-electron.md)
