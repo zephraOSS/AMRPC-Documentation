@@ -2,14 +2,18 @@
 
 ```json
 {
+    "id": "my_modal_title"
     "title": "My Modal Title",
     "description": "This Modal is my Modal. Don't take it away from me!",
     "priority": true,
+    "i18n": {
+        "de_DE": i18n
+    },
     "buttons": Button[]
 }
 ```
 
-<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td>string</td><td>true</td><td>Title of the modal</td></tr><tr><td>description</td><td>string</td><td>true</td><td>Description of the modal</td></tr><tr><td>priority</td><td>boolean</td><td>false</td><td>Whether a window should be created if none is open</td></tr><tr><td>buttons</td><td>null | <a href="modals.md#undefined">Button</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
+<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td>string</td><td>true</td><td>Title of the modal</td></tr><tr><td>description</td><td>string</td><td>true</td><td>Description of the modal</td></tr><tr><td>priority</td><td>boolean</td><td>false</td><td>Whether a window should be created if none is open</td></tr><tr><td>i18n</td><td><a href="modals.md#undefined">i18n</a></td><td>false</td><td>Localization for title and description</td></tr><tr><td>buttons</td><td><a href="modals.md#undefined">Button</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
 
 ### Button data
 
@@ -26,7 +30,7 @@
 }
 ```
 
-<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>label</td><td>string</td><td>true</td><td>Label of the button</td></tr><tr><td>style</td><td>string</td><td>true</td><td>CSS class of the button</td></tr><tr><td>events</td><td>null | <a href="modals.md#undefined">ButtonEvent</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
+<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>label</td><td>string</td><td>true</td><td>Label of the button</td></tr><tr><td>style</td><td>string</td><td>true</td><td>CSS class of the button</td></tr><tr><td>events</td><td><a href="modals.md#undefined">ButtonEvent</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
 
 ### ButtonEvent data
 
@@ -47,3 +51,17 @@ Use **type** OR **value** - **not** both!
 
 * close
 * delete
+
+### i18n data
+
+```json
+{
+    "title": "...",
+    "description": "...",
+    "buttons": {
+        "Close": "..."
+    }
+}
+```
+
+<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td>string</td><td>true</td><td>Title of the modal</td></tr><tr><td>description</td><td>string</td><td>true</td><td>Description of the modal</td></tr><tr><td>buttons</td><td>Object</td><td>false</td><td>The original label as key and the translated label as value</td></tr></tbody></table>
