@@ -4,11 +4,12 @@
 {
     "title": "My Modal Title",
     "description": "This Modal is my Modal. Don't take it away from me!",
+    "priority": true,
     "buttons": Button[]
 }
 ```
 
-<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td>string</td><td>true</td><td>Title of the modal</td></tr><tr><td>description</td><td>string</td><td>true</td><td>Description of the modal</td></tr><tr><td>buttons</td><td>null | <a href="modals.md#undefined">Button</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
+<table><thead><tr><th>Key</th><th>Type</th><th data-type="checkbox">Required</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td>string</td><td>true</td><td>Title of the modal</td></tr><tr><td>description</td><td>string</td><td>true</td><td>Description of the modal</td></tr><tr><td>priority</td><td>boolean</td><td>false</td><td>Whether a window should be created if none is open</td></tr><tr><td>buttons</td><td>null | <a href="modals.md#undefined">Button</a>[]</td><td>false</td><td>Buttons</td></tr></tbody></table>
 
 ### Button data
 
