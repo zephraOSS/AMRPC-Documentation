@@ -7,4 +7,4 @@
 ### Requirements
 
 * [iTunes](https://www.microsoft.com/p/itunes/9pb2mz1zmb1s)
-* Windows 7 or late
+* Windows 7 or later
