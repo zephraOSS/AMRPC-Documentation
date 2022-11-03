@@ -15,6 +15,15 @@ Go to the settings and scroll down to **Presence Details**/-**State**/- **Large 
 * `%artist%` - artist name => e.g. `Bad Bunny`
 * `%version%` - app version => e.g. `4.0.0`
 
+{% hint style="warning" %}
+Only special characters are allowed as separators.
+
+* [x] %title% - %album%
+* [x] %title% | %album%
+* [ ] %title% ABC %album%
+* [ ] %title% 0 %album%
+{% endhint %}
+
 ### RPC icon
 
 Go to the settings and scroll down to **Default Artwork**. You can choose between the Apple Music logo ("Default") and a rainbow version of the Apple Music logo ("Rainbow")
