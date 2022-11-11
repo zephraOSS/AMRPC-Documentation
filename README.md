@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/banner.png
-coverY: 175.43147208121826
+cover: .gitbook/assets/wide.png
+coverY: 290.3964757709251
 layout: landing
 ---
 
@@ -35,6 +35,8 @@ layout: landing
 {% content-ref url="developer-resources/modals.md" %}
 [modals.md](developer-resources/modals.md)
 {% endcontent-ref %}
+
+
 
 ### Other
 
