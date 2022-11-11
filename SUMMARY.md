@@ -22,6 +22,7 @@
 
 ## Developer Resources
 
+* [Build the application](developer-resources/build-the-application.md)
 * [Modals](developer-resources/modals.md)
 
 ## Other
