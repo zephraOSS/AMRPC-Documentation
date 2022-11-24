@@ -8,8 +8,8 @@ layout: landing
 
 {% tabs %}
 {% tab title="Installation" %}
-{% content-ref url="installation/windows.md" %}
-[windows.md](installation/windows.md)
+{% content-ref url="installation/windows/" %}
+[windows](installation/windows/)
 {% endcontent-ref %}
 
 {% content-ref url="installation/macos.md" %}

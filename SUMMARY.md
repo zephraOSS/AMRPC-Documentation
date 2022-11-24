@@ -4,7 +4,8 @@
 
 ## Installation
 
-* [Windows](installation/windows.md)
+* [Windows](installation/windows/README.md)
+  * [Microsoft Store](installation/windows/microsoft-store.md)
 * [macOS](installation/macos.md)
 
 ## App Customization

@@ -16,6 +16,8 @@ _Important: Since we don't have an Apple developer license (which costs $99/year
 
 ### Requirements
 
+* Music / [iTunes](https://support.apple.com/downloads/itunes)
+* [Discord](https://discord.com/download)
 * macOS 10.11 (El Capitan) or later
 
 ### Do I need arm64 or x64

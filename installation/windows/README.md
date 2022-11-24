@@ -7,4 +7,5 @@
 ### Requirements
 
 * [iTunes](https://www.microsoft.com/p/itunes/9pb2mz1zmb1s)
+* [Discord](https://discord.com/download)
 * Windows 7 or later
