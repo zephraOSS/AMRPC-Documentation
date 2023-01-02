@@ -20,6 +20,7 @@
 
 * [Listen Together](articles/listen-together.md)
 * [Ko-fi Features](articles/ko-fi-features.md)
+* [JS File Extension Error](articles/js-file-extension-error.md)
 
 ## Developer Resources
 
