@@ -21,6 +21,7 @@
 * [Listen Together](articles/listen-together.md)
 * [Ko-fi Features](articles/ko-fi-features.md)
 * [JS File Extension Error](articles/js-file-extension-error.md)
+* [Command Prompt Error](articles/command-prompt-error.md)
 
 ## Developer Resources
 
