@@ -4,9 +4,13 @@
 Memberships have been removed. You can now choose between a one-time donation and a monthly recurring donation.
 {% endhint %}
 
-The following feature(s) require a Ko-fi one-time donation or membership:
+The following feature(s) require a Ko-fi one-time donation or monthly recurring donation:
 
 * RPC Large Image Text
+
+Nobody likes to pay for features; we know that. That's why we only put features behind a paywall that are not essential and, therefore, only the cherry on top of the cake.
+
+🤫 _Psst: Sometimes we randomly give people in our Discord free access to the features!_
 
 ### How to get access
 
