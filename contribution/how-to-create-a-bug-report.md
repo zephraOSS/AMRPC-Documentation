@@ -3,7 +3,9 @@
 1. [Create a new issue on GitHub](https://github.com/ZephraCloud/Apple-Music-RPC/issues/new?labels=bug\&template=bug\_report.yml\&title=BUG+%7C+short+description+of+your+bug)
 2. Fill out the fields
 
-### Where can I find the log file?
+{% hint style="danger" %}
+Please report beta bugs in _`#beta-bugs`_on the [Discord](https://discord.gg/APDghNfJhQ) server!
+{% endhint %}
 
 #### Windows
 
