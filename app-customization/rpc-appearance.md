@@ -28,4 +28,4 @@ Only special characters are allowed as separators.
 
 Go to the settings and scroll down to **Default Artwork**. You can choose between the Apple Music logo ("Default") and a rainbow version of the Apple Music logo ("Rainbow")
 
-_\*Requires_ [_Ko-fi one-time donation_](https://ko-fi.com/zephra) _or_ [_membership_](https://ko-fi.com/zephra/tiers)__
+_\*Requires_ [_Ko-fi one-time donation_](https://ko-fi.com/zephra) _or_ [_membership_](https://ko-fi.com/zephra/tiers)

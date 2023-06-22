@@ -9,4 +9,4 @@
 6. Click Yes when asked for confirmation.
 7. Restart AMRPC
 
-__[_Source_](https://www.winhelponline.com/blog/error-there-is-no-script-engine-for-file-extension-when-running-js-files/)
+[_Source_](https://www.winhelponline.com/blog/error-there-is-no-script-engine-for-file-extension-when-running-js-files/)

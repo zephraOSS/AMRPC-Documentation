@@ -7,4 +7,4 @@
 5. In the popup dialog, encircle **Disabled** and click **OK**.
 6. Done. If it still doesn't work, restart your computer.
 
-__[_Source_](https://www.tweakandtrick.com/2013/08/enable-command-prompt.html)__
+[_Source_](https://www.tweakandtrick.com/2013/08/enable-command-prompt.html)
