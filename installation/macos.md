@@ -14,6 +14,17 @@ _Important: Since we don't have an Apple developer license (which costs $99/year
 
 6\. **Done!**
 
+{% hint style="danger" %}
+### **Apple Silicon users:**
+
+\
+Run this command in the Terminal app to "undamage" the installer. Otherwise, you won't be able to open the installer.
+
+```bash
+xattr -cr /Users/YOUR_USERNAME/Downloads/AMRPC-Installer-macOS-arm64.dmg
+```
+{% endhint %}
+
 ### Requirements
 
 * Music / [iTunes](https://support.apple.com/downloads/itunes)
