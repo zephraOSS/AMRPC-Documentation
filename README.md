@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/wide.png
-coverY: 290.3964757709251
+cover: .gitbook/assets/pika-1687432248100-1x.png
+coverY: 179
 layout: landing
 ---
 
