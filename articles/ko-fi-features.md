@@ -1,9 +1,5 @@
 # Ko-fi Features
 
-{% hint style="info" %}
-Memberships have been removed. You can now choose between a one-time donation and a monthly recurring donation.
-{% endhint %}
-
 The following feature(s) require a Ko-fi one-time donation or monthly recurring donation:
 
 * RPC Large Image Text

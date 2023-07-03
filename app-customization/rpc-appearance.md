@@ -2,9 +2,9 @@
 
 Things you can change:
 
-* RPC Details and State
-* RPC Icon
-* RPC Large Image Text\*
+* Details and State
+* Icon
+* Large Image Text\*
 
 ### RPC details/state_/_large image text
 
@@ -28,4 +28,6 @@ Only special characters are allowed as separators.
 
 Go to the settings and scroll down to **Default Artwork**. You can choose between the Apple Music logo ("Default") and a rainbow version of the Apple Music logo ("Rainbow")
 
-_\*Requires_ [_Ko-fi one-time donation_](https://ko-fi.com/zephra) _or_ [_membership_](https://ko-fi.com/zephra/tiers)
+
+
+_\*Requires_ [_Ko-fi one-time donation_](https://ko-fi.com/zephra)

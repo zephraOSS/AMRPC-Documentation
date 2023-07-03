@@ -20,9 +20,13 @@ _Important: Since we don't have an Apple developer license (which costs $99/year
 \
 Run this command in the Terminal app to "undamage" the installer. Otherwise, you won't be able to open the installer.
 
-```bash
-xattr -cr /Users/YOUR_USERNAME/Downloads/AMRPC-Installer-macOS-arm64.dmg
-```
+<pre class="language-bash"><code class="lang-bash"><strong>xattr -cr ~/Downloads/AMRPC-Installer-macOS-arm64.dmg
+</strong></code></pre>
+
+or
+
+<pre class="language-bash"><code class="lang-bash"><strong>xattr -cr /Users/YOUR_USERNAME/Downloads/AMRPC-Installer-macOS-arm64.dmg
+</strong></code></pre>
 {% endhint %}
 
 ### Requirements
