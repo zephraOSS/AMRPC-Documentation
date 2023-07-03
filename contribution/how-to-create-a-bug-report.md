@@ -17,4 +17,4 @@ Please report beta bugs in _`#beta-bugs`_on the [Discord](https://discord.gg/APD
 
 1. Right-click **Finder** in the dock
 2. Press **Go to Folder...**
-3. Type: **/User/YOUR\_USERNAME/Library/Logs/amrpc**
+3. Type: **\~/Library/Logs/amrpc/**
