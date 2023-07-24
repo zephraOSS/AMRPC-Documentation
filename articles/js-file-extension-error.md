@@ -1,3 +1,7 @@
+---
+description: Windows
+---
+
 # JS File Extension Error
 
 1. Open an [elevated Command Prompt](https://www.winhelponline.com/blog/open-elevated-command-prompt-windows/) window.

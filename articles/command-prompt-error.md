@@ -1,3 +1,7 @@
+---
+description: Windows
+---
+
 # Command Prompt Error
 
 1. Click on **Start**. Go to **Run**. Users running Windows 10, Windows 8, Windows 7, or Vista, go to **Search**. Alternatively, use Windows key+R keyboard shortcut.
