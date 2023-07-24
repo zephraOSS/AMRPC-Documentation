@@ -27,6 +27,21 @@ or
 
 <pre class="language-bash"><code class="lang-bash"><strong>xattr -cr /Users/YOUR_USERNAME/Downloads/AMRPC-Installer-macOS-arm64.dmg
 </strong></code></pre>
+
+####
+
+#### If you can't open "AMRPC.app" after this step:
+
+1. Delete **AMRPC.app** in the Applications directory
+2. Open **AMRPC-Installer-macOS.dmg** again
+3. Move **AMRPC.app** to the Downloads directory
+4. Run this command in the Terminal app:&#x20;
+
+<pre><code><strong>xattr -cr ~/Downloads/AMRPC.app
+</strong></code></pre>
+
+5. Move **AMRPC.app** to the Applications directory
+6. Done
 {% endhint %}
 
 ### Requirements
