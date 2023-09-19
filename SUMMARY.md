@@ -22,6 +22,7 @@
 * [Ko-fi Features](articles/ko-fi-features.md)
 * [JS File Extension Error](articles/js-file-extension-error.md)
 * [Command Prompt Error](articles/command-prompt-error.md)
+* [WatchDog](articles/watchdog.md)
 
 ## Developer Resources
 
