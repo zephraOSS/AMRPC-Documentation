@@ -24,6 +24,20 @@ Only special characters are allowed as separators.
 * [ ] %title% 0 %album%
 {% endhint %}
 
+{% hint style="info" %}
+**v4.3.0 or later**
+
+You're now able to use brackets in some cases:\
+
+
+* [x] %title% (%album%)
+* [x] %title% - %album% (%year%)
+* [x] %title% (%album%) - %year%
+* [x] %title% (%album%) (%year%)
+* [ ] %title% - (%album%)
+* [ ] %title% (Hello World)
+{% endhint %}
+
 ### RPC icon
 
 Go to the settings and scroll down to **Default Artwork**. You can choose between the Apple Music logo ("Default") and a rainbow version of the Apple Music logo ("Rainbow")
